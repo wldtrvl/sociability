@@ -6,6 +6,7 @@
 logs
 *.lock
 *.log
+pnpm-lock.yaml
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
